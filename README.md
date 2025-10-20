@@ -23,7 +23,7 @@ Each folder contains focused challenges covering different Rust fundamentals —
 | 04 | primitive_types | ✅      |
 | 05 | vecs            | ✅      |
 | 06 | move_semantics  | ✅      |
-| 07 | structs         | ⬜      |
+| 07 | structs         | ✅      |
 | 08 | enums           | ⬜      |
 | 09 | strings         | ⬜      |
 | 10 | modules         | ⬜      |
